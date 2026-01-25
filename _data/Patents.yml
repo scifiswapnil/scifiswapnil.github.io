@@ -1,0 +1,32 @@
+subject: Patents
+listing-order: 5
+icon: "/assets/img/flask.svg"
+
+contents:
+  - title: Method and System of Dynamic Localization of a Telepresence Robot Based on Live Markers
+    description:
+      - "Patent Numbers: US12360536B2, EP4130924B1"
+      - "Status: Granted (2024–2025)"
+      - "Scope: Vision-based dynamic localisation using live markers for autonomous navigation and telepresence robotics."
+      - "Impact: Enables robust localisation in GPS-denied and indoor environments; deployed in real-world robotic platforms."
+
+  - title: Autonomous Surface Crawling Robot
+    description:
+      - "Patent Numbers: US12084133B2, EP3929067B1"
+      - "Status: Granted (2024)"
+      - "Scope: Novel surface traversal and locomotion mechanism for autonomous inspection robots."
+      - "Impact: Improves mobility and inspection capability across complex and constrained surfaces."
+
+  - title: Automated Docking System for Charging Rechargeable Mobile Devices
+    description:
+      - "Patent Number: EP4312341B1"
+      - "Status: Granted (2025)"
+      - "Scope: Autonomous docking, alignment, and charging system for mobile robotic platforms."
+      - "Impact: Supports reliable fleet-scale deployment and unattended operation of autonomous robots."
+
+  - title: System and Method for Intelligent 3D Imaging Guided Robotic Gripper
+    description:
+      - "Publication Number: EP3653348A1"
+      - "Status: Published (2020)"
+      - "Scope: Cognitively enabled modular robotic gripper using synchronised control and visual sensing."
+      - "Impact: Enhances intelligent grasping with adaptive force control in manipulation tasks."
