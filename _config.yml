@@ -1,0 +1,43 @@
+title: Senior Robotics & Autonomous Systems Engineer
+profile_img: /assets/img/swapnil.jpeg
+icon_img: /assets/img/icon.webp
+
+
+name: Swapnil Kalhapure
+location: Bristol, United Kingdom
+
+email: kalhapure.swapnil@gmail.com
+
+summary: >
+  Senior Robotics & Autonomous Systems Engineer with 8+ years of experience
+  delivering mission-critical robotics, UAV, and autonomous platforms across
+  UK aerospace, defence, and global industrial robotics sectors. Proven technical
+  leader with end-to-end ownership of avionics architecture, autonomy stacks,
+  and rapid prototyping pipelines, delivering systems from concept to TRL-5
+  flight-ready platforms. Published researcher and named inventor on multiple
+  granted international patents.
+
+phone_number: +44 7586 375698
+linkedin_username: swapnilkalhapure
+github_username: scifiswapnil
+twitter_username: scifiswapnil
+youtube_username: Swapnilkalhapure
+instagram_username: scifiswapnil
+facebook_username: swapnil.kalhapure
+address: Bristol, United Kingdom
+blog_url: /
+
+# availability:
+#   relocation: true
+#   remote: true
+#   onsite: true
+
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl: 
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

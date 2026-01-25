@@ -1,0 +1,106 @@
+subject: Skills
+listing-order: 5
+icon: "/assets/img/screwdriver-wrench.svg"
+contents:
+  - title: Robotics & Autonomous Systems
+    description:
+      - Autonomous navigation, SLAM, localisation, motion planning
+      - Multi-robot systems, swarm robotics, decentralised coordination
+      - State estimation, sensor fusion, behaviour trees
+      - Human–Robot Interaction (HRI) and field robotics
+
+  - title: UAV & Aerospace Avionics
+    description:
+      - PX4 and ArduPilot flight control architectures
+      - UAV / UCAV avionics system design and integration
+      - Redundant power systems, flight termination systems (FTS)
+      - ADS-B, GNSS, CRPA, RF and communications subsystems
+      - EMI/EMC-aware design for aerospace platforms
+
+  - title: Embedded Systems & Hardware
+    description:
+      - Embedded C/C++ for microcontrollers and SoCs
+      - STM32, ESP32, ARM-based embedded platforms
+      - Custom PCB design (schematic, layout, bring-up)
+      - CAN, UART, SPI, I2C, Ethernet, USB interfaces
+      - Hardware-in-the-Loop (HIL) and bench testing
+
+  - title: Robotics Software & Middleware
+    description:
+      - ROS and ROS2 (nodes, launch files, DDS middleware)
+      - Linux-based robotics stacks and deployment
+      - Companion computer integration (Jetson, SBCs)
+      - Simulation-to-hardware workflows
+      - Autonomy validation and regression testing
+
+  - title: Perception & Sensing
+    description:
+      - Vision-based localisation and tracking
+      - Depth sensing (stereo, RGB-D, LiDAR)
+      - Multi-sensor perception pipelines
+      - Camera calibration and sensor synchronisation
+
+  - title: Simulation & Modelling
+    description:
+      - Gazebo, Ignition, ROS2 simulation environments
+      - JSBSim-based flight dynamics simulation
+      - MATLAB / Simulink model integration concepts
+      - Digital twins and virtual test environments
+
+  - title: Systems Engineering & Architecture
+    description:
+      - End-to-end system architecture and decomposition
+      - Interface Control Documents (ICDs)
+      - Requirements traceability and design assurance
+      - TRL progression from concept to flight-ready systems
+      - Safety-critical system considerations
+
+  - title: Verification, Validation & Compliance
+    description:
+      - PDR / CDR preparation and execution
+      - Environmental, functional, and integration testing
+      - EMI/EMC considerations for defence and aerospace
+      - UK defence stakeholder engagement
+      - Documentation for regulated environments
+
+  - title: Research, Innovation & IP
+    description:
+      - Applied robotics research and prototyping
+      - Patent ideation, drafting support, and filings
+      - Peer-reviewed publications
+      - Technology demonstrators and proof-of-concepts
+      - Transitioning research into deployable systems
+
+  - title: Leadership & Collaboration
+    description:
+      - Technical leadership across cross-functional teams
+      - Mentoring junior engineers
+      - Supplier and subcontractor coordination
+      - Stakeholder communication (engineering & non-technical)
+      - Agile and rapid development environments
+
+
+# subject: Skills
+# listing-order: 5
+# icon: "/assets/img/screwdriver-wrench.svg"
+# contents:
+#   - title: Programming Languages
+#     description: "
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg)
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)
+#     "
+#   - title: Frameworks
+#     description: "
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg)
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg)
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg)
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg)
+#       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)
+#     "

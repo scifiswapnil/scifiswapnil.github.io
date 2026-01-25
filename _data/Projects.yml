@@ -1,0 +1,59 @@
+subject: Projects
+listing-order: 3
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: Project Stratos / Defendor – Sovereign UCAV Programme
+    date: Mar 2025 – Present
+    description:
+      - Architected modular avionics and mission systems platform for UCAV-class aircraft.
+      - Defined system-level architecture and ICDs across flight control, comms, power, and payloads.
+      - Led avionics integration and harness strategy with grounding and EMI/EMC considerations.
+      - Advanced platform to TRL-5; passed PDR/CDR with UK defence stakeholders.
+
+  - title: DT300 “Talon” – Multi-Role VTOL UAV Avionics Platform
+    date: Sept 2024 – Mar 2025
+    description:
+      - Designed highly integrated avionics module consolidating flight control, compute, and power.
+      - Owned full PCB lifecycle from schematic through HIL and environmental validation.
+      - Enabled cost and build-time reduction through architectural consolidation.
+
+  - title: Decentralised Swarm Robotics (MSc Research)
+    date: May 2021
+    description:
+      - Designed and implemented decentralized multi-robot payload transport using cooperative planning.
+      - Benchmarked swarm autonomy in simulation and physical deployments.
+      - Formed basis for peer-reviewed publications.
+
+  - title: MBZIRC 2020 – Autonomous Ground Vehicle
+    date: 2019 – 2020
+    description:
+      - Developed mapping, localisation, and autonomy modules under competition conditions.
+      - Achieved 6th place globally among academic and industry teams.
+
+  - title: RaDa – Robotic Assistant for Airport Operations
+    date: 2017 – 2018
+    description:
+      - Led end-to-end system integration across mobility, perception, and HRI.
+      - Deployed in live aviation environments with national media coverage.
+
+# subject: Projects
+# listing-order: 3
+# icon: "/assets/img/clipboard-list.svg"
+# contents:
+#   - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+#     description: 
+#       - Chatbot developed based on a large language model
+#       - Designed Generative algorithm to generate novel human-like content
+#       - "Technology Used: Rust, Typescript, Python, Ruby"
+#     image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+#   - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+#     description: 
+#       - Universal Command Line Interface for Amazone Web Services
+#       - Developed a scheme to facilitate users’ authentication without having to remember their credentials
+#       - "Technology Used: Typescript, Python, Go"
+#     image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+#   - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+#     description: 
+#       - Machine learning library for applications such as computer vision and natural language processing
+#       - "Technology Used: Python, Cuda, Objective-C++"
+#     image: "![](https://i.ibb.co/R9150c4/12421323.webp)"

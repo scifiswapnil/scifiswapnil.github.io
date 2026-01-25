@@ -1,0 +1,54 @@
+subject: Experiences
+listing-order: 1
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: Rotron Aerospace Limited, Shaftesbury, UK
+    role: Senior R&D Robotics Engineer
+    date: Sept 2024 – Present
+    description:
+      - Technical lead for UAV avionics, autonomy integration, and mission systems on UK defence programmes.
+      - Led end-to-end avionics and mission architecture across flight control, navigation, communications, and safety-critical subsystems.
+      - Architected modular avionics platforms for sovereign UCAV programmes (Stratos, Defendor).
+      - Delivered flight-critical hardware including redundant power, ADS-B, and flight termination systems.
+      - Led PDR/CDR with UK defence stakeholders; systems demonstrated at DSEI and REPMUS.
+
+  - title: Dyson Technology Limited, Malmesbury, UK
+    role: Robotics Design Engineer
+    date: Aug 2022 – Aug 2024
+    description:
+      - Led evaluation of next-generation robotic platforms across mobility, actuation, and embedded systems.
+      - Established rapid feasibility and prototyping frameworks reducing validation cycles by ~30%.
+      - Delivered multiple validated concepts into Dyson’s NPI pipeline.
+      - Mentored junior engineers and acted as technical lead across teams.
+
+  - title: Tata Consultancy Services (TCS), Bangalore, India
+    role: Robotics Engineer – Research & Innovation Labs
+    date: Dec 2016 – May 2020
+    description:
+      - Core engineer in Robotics Research & Innovation Labs and Smart Machines Lab.
+      - Led development of “RaDa” autonomous airport assistance robot deployed at live aviation environments.
+      - Contributor to MBZIRC 2020 autonomous ground vehicle team (6th globally).
+      - Led AMR platform architecture for industrial automati
+
+# subject: Experiences
+# listing-order: 2
+# icon: "/assets/img/briefcase.svg"
+# contents:
+#   - title: Nanosoft
+#     role: Project Manager
+#     description:
+#       - Led development of a new chatbot software utilizing large language model
+#       - Co-designer of '*Kopilot*' and '*Gemmini*'
+#     date: Jan. 2024 - Ongoing
+#   - title: Amazone
+#     role: Senior Software Engineer
+#     description: 
+#       - Built a Java microservice, database schema to manage customer accounts
+#       - Enhanced internal pipelines to query real-time data from client devices
+#     date: Apr. 2016 - Dec. 2018
+#   - title: Pacebook
+#     role: Software Engineer Intern
+#     description: 
+#       - Designed the dynamic website using React for data visualization
+#       - Integrated '*Yolo*' to boost the accuracy of the object detection
+#     date: Jul. 2013 - Sep. 2013

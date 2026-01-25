@@ -1,0 +1,24 @@
+subject: Education
+listing-order: 2
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: University of Sheffield, United Kingdom
+    role: Master of Science (MSc) in Robotics
+    date: Oct 2020 – Nov 2021
+    description:
+      - "First Class with Distinction"
+      - "Dissertation: Decentralized Payload Transport by Swarm of Mobile Robots"
+
+  - title: Savitribai Phule Pune University, India
+    role: Bachelor of Engineering (BE) in Computer Engineering
+    date: Jun 2013 – Dec 2016
+    description:
+      - "First Class with Distinction"
+      - "Thesis: Telepresence Robot – Real-Time Communication using Embedded System"
+
+  - title: Savitribai Phule Pune University, India
+    role: Diploma in Computer Engineering
+    date: Jun 2010 – May 2013
+    description:
+      - "First Class with Distinction"
+      - "Thesis: SAMULE – Semi-Automated Multi-Utility Logistic Equipment Rover"
