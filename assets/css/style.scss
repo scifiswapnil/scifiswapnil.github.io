@@ -98,7 +98,7 @@ a { text-decoration:none; }
         vertical-align: middle;
         clip-path: inset(0 100% 0 0);
         transition: font-size .6s ease-in-out, clip-path .4s;
-        transition-delay: 0s, .45s;
+        transition-delay: 0s, .15s;
         transition-property: font-size, clip-path;
     }
 
@@ -224,7 +224,7 @@ a { text-decoration:none; }
     .appear {
         opacity: 1;
         transform: none;
-        transition-delay: 0.3s;
+        transition-delay: 0.1s;
     }
 
     .content-header { 
