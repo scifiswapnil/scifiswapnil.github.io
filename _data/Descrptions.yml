@@ -1,0 +1,33 @@
+subject: About
+listing-order: 0
+icon: "/assets/img/house.svg"
+contents:
+  - title: Profile
+    description:
+      - "Senior Robotics & Autonomous Systems Engineer with over 8 years of experience delivering mission-critical robotics, UAV, and autonomous platforms across UK aerospace, defence, and global industrial robotics sectors."
+      - "Proven technical leader with end-to-end ownership of system architecture, avionics integration, autonomy stacks, and rapid prototyping pipelines."
+      - "Experienced in taking complex systems from early research and feasibility through to TRL-5 flight-ready platforms and real-world deployments."
+
+  - title: Technical Focus
+    description:
+      - "Specialised in autonomous navigation, multi-robot systems, and UAV avionics architectures."
+      - "Hands-on expertise spanning embedded systems, robotics software, perception, and system-level integration."
+      - "Strong background in simulation-to-hardware workflows, safety-critical design, and regulated engineering environments."
+
+  - title: Research, Innovation & Impact
+    description:
+      - "Published researcher with peer-reviewed publications in robotics and autonomous systems."
+      - "Named inventor on multiple granted international patents covering localisation, mobility, docking, and robotic manipulation."
+      - "Track record of transitioning research-led innovation into deployable, production-oriented robotic systems."
+
+  - title: Leadership & Collaboration
+    description:
+      - "Acted as technical lead across cross-functional teams, mentoring engineers and guiding system architecture decisions."
+      - "Experienced in working with suppliers, research partners, and defence stakeholders."
+      - "Comfortable operating at the interface of engineering, research, and product strategy."
+
+  - title: Current Interests
+    description:
+      - "Advanced autonomous systems for aerial and ground robotics."
+      - "Scalable and modular avionics platforms for UAVs and UCAV-class systems."
+      - "Bridging cutting-edge research with real-world, safety-critical deployment."
