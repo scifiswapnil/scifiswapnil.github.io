@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/scifiswapnil/scifiswapnil.github.io/refs/heads/main/Logo/scifiswapnil-logo-final-2026%20(Copy).svg)
+
 [![CI](https://img.shields.io/badge/Github%20Pages-passing-gold.svg?logo=github)](ci)
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.9-green.svg)](https://jekyllrb.com/)
