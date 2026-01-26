@@ -1,6 +1,6 @@
 subject: About
 listing-order: 0
-icon: "/assets/img/house.svg"
+icon: "/assets/img/logo/android-chrome-512x512.png"
 contents:
   - title: Profile
     description:

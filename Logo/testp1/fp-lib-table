@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "scifiswapnil")(type "KiCad")(uri "${KIPRJMOD}/scifiswapnil.pretty")(options "")(descr ""))
+)
